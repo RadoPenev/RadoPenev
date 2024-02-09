@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Object-Oriented Programming\06.12.23\06.12.23\bin\Debug\06.12.23.exe.config
+C:\Users\User\Desktop\Object-Oriented Programming\06.12.23\06.12.23\bin\Debug\06.12.23.exe
+C:\Users\User\Desktop\Object-Oriented Programming\06.12.23\06.12.23\bin\Debug\06.12.23.pdb
+C:\Users\User\Desktop\Object-Oriented Programming\06.12.23\06.12.23\obj\Debug\06.12.23.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object-Oriented Programming\06.12.23\06.12.23\obj\Debug\06.12.23.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object-Oriented Programming\06.12.23\06.12.23\obj\Debug\06.12.23.exe
+C:\Users\User\Desktop\Object-Oriented Programming\06.12.23\06.12.23\obj\Debug\06.12.23.pdb

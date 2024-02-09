@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\bin\Debug\net5.0\Lambda funkcii.exe
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\bin\Debug\net5.0\Lambda funkcii.deps.json
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\bin\Debug\net5.0\Lambda funkcii.runtimeconfig.json
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\bin\Debug\net5.0\Lambda funkcii.runtimeconfig.dev.json
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\bin\Debug\net5.0\Lambda funkcii.dll
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\bin\Debug\net5.0\ref\Lambda funkcii.dll
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\bin\Debug\net5.0\Lambda funkcii.pdb
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\obj\Debug\net5.0\Lambda funkcii.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\obj\Debug\net5.0\Lambda funkcii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\obj\Debug\net5.0\Lambda funkcii.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\obj\Debug\net5.0\Lambda funkcii.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\obj\Debug\net5.0\Lambda funkcii.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\obj\Debug\net5.0\Lambda funkcii.dll
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\obj\Debug\net5.0\ref\Lambda funkcii.dll
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\obj\Debug\net5.0\Lambda funkcii.pdb
+C:\Users\User\Desktop\Programming\Exercise\Lambda funkcii\obj\Debug\net5.0\Lambda funkcii.genruntimeconfig.cache

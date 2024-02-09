@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Programming\Exercise\Letter count\bin\Debug\net5.0\Letter count.exe
+C:\Users\User\Desktop\Programming\Exercise\Letter count\bin\Debug\net5.0\Letter count.deps.json
+C:\Users\User\Desktop\Programming\Exercise\Letter count\bin\Debug\net5.0\Letter count.runtimeconfig.json
+C:\Users\User\Desktop\Programming\Exercise\Letter count\bin\Debug\net5.0\Letter count.runtimeconfig.dev.json
+C:\Users\User\Desktop\Programming\Exercise\Letter count\bin\Debug\net5.0\Letter count.dll
+C:\Users\User\Desktop\Programming\Exercise\Letter count\bin\Debug\net5.0\ref\Letter count.dll
+C:\Users\User\Desktop\Programming\Exercise\Letter count\bin\Debug\net5.0\Letter count.pdb
+C:\Users\User\Desktop\Programming\Exercise\Letter count\obj\Debug\net5.0\Letter count.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\Exercise\Letter count\obj\Debug\net5.0\Letter count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\Exercise\Letter count\obj\Debug\net5.0\Letter count.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\Exercise\Letter count\obj\Debug\net5.0\Letter count.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\Exercise\Letter count\obj\Debug\net5.0\Letter count.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\Exercise\Letter count\obj\Debug\net5.0\Letter count.dll
+C:\Users\User\Desktop\Programming\Exercise\Letter count\obj\Debug\net5.0\ref\Letter count.dll
+C:\Users\User\Desktop\Programming\Exercise\Letter count\obj\Debug\net5.0\Letter count.pdb
+C:\Users\User\Desktop\Programming\Exercise\Letter count\obj\Debug\net5.0\Letter count.genruntimeconfig.cache

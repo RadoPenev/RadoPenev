@@ -1,0 +1,15 @@
+{
+  "name": "kaput",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.Sub-Sum.js",
+  "scripts": {
+    "test": "mocha './*.test.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.0",
+    "mocha": "^10.2.0"
+  }
+}

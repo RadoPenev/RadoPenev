@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/vue@3.0.2/dist/vue.global.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div id="app">
+<h1>Goooooosshhhooooooo</h1>
+<p>Hi my name is {{name}} i drive {{car}} and i am {{age}}</p>
+<p v-if="show">{{description}}</p>
+<button @click="information" v-if="!show">Click to know more about Goooooosshhhooooooo</button>
+<button @click="information" v-else>Hide the additional information about Goooooosshhhooooooo</button>
+    <p>Rate Goooooosshhhooooooo</p>
+    <p>{{rating}}</p>
+    <button @click="rating++" v-if="rating<10">+</button>
+    <button @click="rating--" v-if="rating>0">-</button>
+
+    <div class="box" @click="toggleFav">Toggler</div>
+
+
+
+
+
+    </div>
+    
+    <script src="test.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Border_Control\bin\Debug\Border_Control.exe.config
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Border_Control\bin\Debug\Border_Control.exe
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Border_Control\bin\Debug\Border_Control.pdb
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Border_Control\obj\Debug\Border_Control.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Border_Control\obj\Debug\Border_Control.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Border_Control\obj\Debug\Border_Control.exe
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Border_Control\obj\Debug\Border_Control.pdb

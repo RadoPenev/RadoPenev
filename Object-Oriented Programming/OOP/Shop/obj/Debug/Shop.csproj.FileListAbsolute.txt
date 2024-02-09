@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Shop\bin\Debug\Shop.exe.config
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Shop\bin\Debug\Shop.exe
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Shop\bin\Debug\Shop.pdb
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Shop\obj\Debug\Shop.exe
+C:\Users\User\Desktop\Object-Oriented Programming\OOP\Shop\obj\Debug\Shop.pdb

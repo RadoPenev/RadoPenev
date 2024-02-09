@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "English-Bulgarian Dictionary/1.0.0": {
+        "runtime": {
+          "English-Bulgarian Dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "English-Bulgarian Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

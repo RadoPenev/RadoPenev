@@ -1,0 +1,7 @@
+C:\Users\11B1_4\Desktop\Classwork\Classwork\15.11.23_1\bin\Debug\15.11.23_1.exe.config
+C:\Users\11B1_4\Desktop\Classwork\Classwork\15.11.23_1\bin\Debug\15.11.23_1.exe
+C:\Users\11B1_4\Desktop\Classwork\Classwork\15.11.23_1\bin\Debug\15.11.23_1.pdb
+C:\Users\11B1_4\Desktop\Classwork\Classwork\15.11.23_1\obj\Debug\15.11.23_1.csproj.AssemblyReference.cache
+C:\Users\11B1_4\Desktop\Classwork\Classwork\15.11.23_1\obj\Debug\15.11.23_1.csproj.CoreCompileInputs.cache
+C:\Users\11B1_4\Desktop\Classwork\Classwork\15.11.23_1\obj\Debug\15.11.23_1.exe
+C:\Users\11B1_4\Desktop\Classwork\Classwork\15.11.23_1\obj\Debug\15.11.23_1.pdb
